@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>277496C2-F882-46BC-A7FD-5CCC7A2C12AF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>277496C2-F882-46BC-A7FD-5CCC7A2C12AF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>StructClasses</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>StructClasses (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build StructClasses (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>654648314.54069901</real>
+			<key>timeStoppedRecording</key>
+			<real>654648314.64359403</real>
+			<key>title</key>
+			<string>Build StructClasses (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>277496C2-F882-46BC-A7FD-5CCC7A2C12AF</string>
+		</dict>
+		<key>43642168-AF2E-43F3-94EA-9BABB19D2FEB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>43642168-AF2E-43F3-94EA-9BABB19D2FEB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>StructClasses</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>StructClasses (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build StructClasses (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>654648240.73024905</real>
+			<key>timeStoppedRecording</key>
+			<real>654648241.11528504</real>
+			<key>title</key>
+			<string>Build StructClasses (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>43642168-AF2E-43F3-94EA-9BABB19D2FEB</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

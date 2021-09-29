@@ -1,0 +1,98 @@
+{
+  "buildCommand" : "preview",
+  "configuredTargets" : [
+    {
+      "guid" : "PLAYGROUND-PRODUCT:Funcs_Sources-PLAYGROUND-TARGET:/Users/gwzr/Desktop/swift/fundamentals/Funcs.playground",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "x86_64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator14.5",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "x86_64"
+          ],
+          "targetArchitecture" : "x86_64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/gwzr/Desktop/swift/fundamentals/Build/DerivedData/Intermediates",
+          "buildProductsPath" : "/Users/gwzr/Desktop/swift/fundamentals/Build/DerivedData/Products",
+          "derivedDataPath" : "/Users/gwzr/Desktop/swift/fundamentals/Build/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/gwzr/Desktop/swift/fundamentals/Build/DerivedData/Funcs/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/gwzr/Desktop/swift/fundamentals/Build/DerivedData/Funcs/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/gwzr/Desktop/swift/fundamentals/Build/DerivedData/Intermediates/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "14.5",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/gwzr/Desktop/swift/fundamentals/Build/DerivedData/Intermediates/Playgrounds/Funcs/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/gwzr/Desktop/swift/fundamentals/Build/DerivedData/Intermediates/Playgrounds/Funcs/Intermediates.noindex",
+              "PACKAGE_BUILD_DYNAMICALLY" : "YES",
+              "SYMROOT" : "/Users/gwzr/Desktop/swift/fundamentals/Build/DerivedData/Intermediates/Playgrounds/Funcs/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B0393770-E65D-44F4-A70E-3011B88D9F75",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "14.5",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator14.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/gwzr/Desktop/swift/fundamentals/Build/DerivedData/Intermediates",
+      "buildProductsPath" : "/Users/gwzr/Desktop/swift/fundamentals/Build/DerivedData/Products",
+      "derivedDataPath" : "/Users/gwzr/Desktop/swift/fundamentals/Build/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/gwzr/Desktop/swift/fundamentals/Build/DerivedData/Funcs/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/gwzr/Desktop/swift/fundamentals/Build/DerivedData/Funcs/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/gwzr/Desktop/swift/fundamentals/Build/DerivedData/Intermediates/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "14.5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "B0393770-E65D-44F4-A70E-3011B88D9F75",
+          "TARGET_DEVICE_MODEL" : "iPad6,4",
+          "TARGET_DEVICE_OS_VERSION" : "14.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
