@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>E397559E-0D3C-4FA5-91D1-40E618AC7D02</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E397559E-0D3C-4FA5-91D1-40E618AC7D02.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Calories</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Calories (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Calories (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>654646176.31114697</real>
+			<key>timeStoppedRecording</key>
+			<real>654646176.94021595</real>
+			<key>title</key>
+			<string>Build Calories (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>E397559E-0D3C-4FA5-91D1-40E618AC7D02</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
