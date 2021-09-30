@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "db5cf90f1d1c3c7ff1bd98d3cd81a5a1"
+build_time: [1632960021, 345674000]
+inputs:
+  "/Users/gwzr/Desktop/swift/fundamentals/SalesTax/SalesTax/ViewController.swift": [1632960021, 265139625]
+  "/Users/gwzr/Desktop/swift/fundamentals/SalesTax/SalesTax/AppDelegate.swift": [1632957324, 487027967]
+  "/Users/gwzr/Desktop/swift/fundamentals/SalesTax/SalesTax/SceneDelegate.swift": [1632957324, 491506437]

@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>07543563-0C58-487C-8EBF-F1E8BE3E39E1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>07543563-0C58-487C-8EBF-F1E8BE3E39E1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SalesTax project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SalesTax</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SalesTax</string>
+			<key>timeStartedRecording</key>
+			<real>654652649.26526701</real>
+			<key>timeStoppedRecording</key>
+			<real>654652652.48373902</real>
+			<key>title</key>
+			<string>Build SalesTax</string>
+			<key>uniqueIdentifier</key>
+			<string>07543563-0C58-487C-8EBF-F1E8BE3E39E1</string>
+		</dict>
+		<key>107C02D7-455F-411D-9B14-6D41D262C793</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>107C02D7-455F-411D-9B14-6D41D262C793.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SalesTax project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SalesTax</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SalesTax</string>
+			<key>timeStartedRecording</key>
+			<real>654650877.36313403</real>
+			<key>timeStoppedRecording</key>
+			<real>654650877.86903906</real>
+			<key>title</key>
+			<string>Build SalesTax</string>
+			<key>uniqueIdentifier</key>
+			<string>107C02D7-455F-411D-9B14-6D41D262C793</string>
+		</dict>
+		<key>20016BCA-3414-4383-B1D2-6261A8CD8CA8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>20016BCA-3414-4383-B1D2-6261A8CD8CA8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SalesTax project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SalesTax</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SalesTax</string>
+			<key>timeStartedRecording</key>
+			<real>654651438.90604997</real>
+			<key>timeStoppedRecording</key>
+			<real>654651439.30132604</real>
+			<key>title</key>
+			<string>Build SalesTax</string>
+			<key>uniqueIdentifier</key>
+			<string>20016BCA-3414-4383-B1D2-6261A8CD8CA8</string>
+		</dict>
+		<key>32E7CBD5-1BAB-4B6B-AC18-4FAC56D8CEC9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>32E7CBD5-1BAB-4B6B-AC18-4FAC56D8CEC9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SalesTax project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SalesTax</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SalesTax</string>
+			<key>timeStartedRecording</key>
+			<real>654650793.45039999</real>
+			<key>timeStoppedRecording</key>
+			<real>654650796.38506997</real>
+			<key>title</key>
+			<string>Build SalesTax</string>
+			<key>uniqueIdentifier</key>
+			<string>32E7CBD5-1BAB-4B6B-AC18-4FAC56D8CEC9</string>
+		</dict>
+		<key>68650FA0-3BC9-46B6-A8A0-F3C746291564</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>68650FA0-3BC9-46B6-A8A0-F3C746291564.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SalesTax project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SalesTax</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SalesTax</string>
+			<key>timeStartedRecording</key>
+			<real>654652284.34064496</real>
+			<key>timeStoppedRecording</key>
+			<real>654652286.83385003</real>
+			<key>title</key>
+			<string>Build SalesTax</string>
+			<key>uniqueIdentifier</key>
+			<string>68650FA0-3BC9-46B6-A8A0-F3C746291564</string>
+		</dict>
+		<key>6E345802-FDD4-499D-ACA4-062FBA0979A6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6E345802-FDD4-499D-ACA4-062FBA0979A6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SalesTax project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SalesTax</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SalesTax</string>
+			<key>timeStartedRecording</key>
+			<real>654651480.35601604</real>
+			<key>timeStoppedRecording</key>
+			<real>654651480.76958597</real>
+			<key>title</key>
+			<string>Build SalesTax</string>
+			<key>uniqueIdentifier</key>
+			<string>6E345802-FDD4-499D-ACA4-062FBA0979A6</string>
+		</dict>
+		<key>71D27320-3FE4-47E7-AD28-FB65A7C47261</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>71D27320-3FE4-47E7-AD28-FB65A7C47261.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SalesTax project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SalesTax</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SalesTax</string>
+			<key>timeStartedRecording</key>
+			<real>654652754.03776801</real>
+			<key>timeStoppedRecording</key>
+			<real>654652754.47283494</real>
+			<key>title</key>
+			<string>Build SalesTax</string>
+			<key>uniqueIdentifier</key>
+			<string>71D27320-3FE4-47E7-AD28-FB65A7C47261</string>
+		</dict>
+		<key>73639AFB-4A56-4887-BD86-566E6AEF1B58</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>73639AFB-4A56-4887-BD86-566E6AEF1B58.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SalesTax project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SalesTax</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SalesTax</string>
+			<key>timeStartedRecording</key>
+			<real>654652407.35078895</real>
+			<key>timeStoppedRecording</key>
+			<real>654652410.33591998</real>
+			<key>title</key>
+			<string>Build SalesTax</string>
+			<key>uniqueIdentifier</key>
+			<string>73639AFB-4A56-4887-BD86-566E6AEF1B58</string>
+		</dict>
+		<key>80D80264-2B3A-407B-8923-40A554FBEDCD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>80D80264-2B3A-407B-8923-40A554FBEDCD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SalesTax project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SalesTax</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SalesTax</string>
+			<key>timeStartedRecording</key>
+			<real>654651518.01446998</real>
+			<key>timeStoppedRecording</key>
+			<real>654651518.40449798</real>
+			<key>title</key>
+			<string>Build SalesTax</string>
+			<key>uniqueIdentifier</key>
+			<string>80D80264-2B3A-407B-8923-40A554FBEDCD</string>
+		</dict>
+		<key>90D18B05-0CF5-4EE2-A3CB-72DFB6BFC3D1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>90D18B05-0CF5-4EE2-A3CB-72DFB6BFC3D1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SalesTax project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SalesTax</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SalesTax</string>
+			<key>timeStartedRecording</key>
+			<real>654652821.27273297</real>
+			<key>timeStoppedRecording</key>
+			<real>654652822.09602797</real>
+			<key>title</key>
+			<string>Build SalesTax</string>
+			<key>uniqueIdentifier</key>
+			<string>90D18B05-0CF5-4EE2-A3CB-72DFB6BFC3D1</string>
+		</dict>
+		<key>977204C1-A95A-4276-89C3-5D08CEC1D15B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>977204C1-A95A-4276-89C3-5D08CEC1D15B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SalesTax project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SalesTax</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SalesTax</string>
+			<key>timeStartedRecording</key>
+			<real>654651269.87316704</real>
+			<key>timeStoppedRecording</key>
+			<real>654651272.70840096</real>
+			<key>title</key>
+			<string>Build SalesTax</string>
+			<key>uniqueIdentifier</key>
+			<string>977204C1-A95A-4276-89C3-5D08CEC1D15B</string>
+		</dict>
+		<key>C4C65472-000E-4D72-8C6A-FCCA160DA0B6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C4C65472-000E-4D72-8C6A-FCCA160DA0B6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SalesTax project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SalesTax</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SalesTax</string>
+			<key>timeStartedRecording</key>
+			<real>654651356.84308696</real>
+			<key>timeStoppedRecording</key>
+			<real>654651357.23701704</real>
+			<key>title</key>
+			<string>Build SalesTax</string>
+			<key>uniqueIdentifier</key>
+			<string>C4C65472-000E-4D72-8C6A-FCCA160DA0B6</string>
+		</dict>
+		<key>C715A839-7BA8-474F-912A-D6B99B7C8A25</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C715A839-7BA8-474F-912A-D6B99B7C8A25.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SalesTax project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SalesTax</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SalesTax</string>
+			<key>timeStartedRecording</key>
+			<real>654652707.54494905</real>
+			<key>timeStoppedRecording</key>
+			<real>654652708.347193</real>
+			<key>title</key>
+			<string>Build SalesTax</string>
+			<key>uniqueIdentifier</key>
+			<string>C715A839-7BA8-474F-912A-D6B99B7C8A25</string>
+		</dict>
+		<key>FEC3621E-3948-4FFF-A013-B498A31D65BB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FEC3621E-3948-4FFF-A013-B498A31D65BB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SalesTax project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SalesTax</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SalesTax</string>
+			<key>timeStartedRecording</key>
+			<real>654652135.52829099</real>
+			<key>timeStoppedRecording</key>
+			<real>654652137.08496296</real>
+			<key>title</key>
+			<string>Build SalesTax</string>
+			<key>uniqueIdentifier</key>
+			<string>FEC3621E-3948-4FFF-A013-B498A31D65BB</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
