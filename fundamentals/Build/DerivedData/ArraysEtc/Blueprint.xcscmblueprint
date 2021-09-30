@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9DE8AEFE8D2388D560C4C8CEFD51FF96CB4B87B2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9DE8AEFE8D2388D560C4C8CEFD51FF96CB4B87B2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B2EB7918-B17D-4973-8ABA-6CC2EDD28361",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9DE8AEFE8D2388D560C4C8CEFD51FF96CB4B87B2" : "swift\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ArraysEtc",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "fundamentals\/ArraysEtc.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kpartain\/swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9DE8AEFE8D2388D560C4C8CEFD51FF96CB4B87B2"
+    }
+  ]
+}
