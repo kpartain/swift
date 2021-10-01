@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>D48436DC-E1A9-439D-8769-46E1A4577B0F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D48436DC-E1A9-439D-8769-46E1A4577B0F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FundsCont</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FundsCont (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build FundsCont (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>654814732.87012601</real>
+			<key>timeStoppedRecording</key>
+			<real>654814733.25083804</real>
+			<key>title</key>
+			<string>Build FundsCont (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>D48436DC-E1A9-439D-8769-46E1A4577B0F</string>
+		</dict>
+		<key>DA48AD1A-D925-473C-A06D-C96521C65447</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DA48AD1A-D925-473C-A06D-C96521C65447.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FundsCont</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FundsCont (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build FundsCont (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>654799506.52200794</real>
+			<key>timeStoppedRecording</key>
+			<real>654799507.454723</real>
+			<key>title</key>
+			<string>Build FundsCont (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>DA48AD1A-D925-473C-A06D-C96521C65447</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
