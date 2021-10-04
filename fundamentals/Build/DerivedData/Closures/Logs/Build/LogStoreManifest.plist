@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>BED6C50B-9C7C-4A24-9922-4B4A5463D1A9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BED6C50B-9C7C-4A24-9922-4B4A5463D1A9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Closures</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Closures (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Closures (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>655075970.98053098</real>
+			<key>timeStoppedRecording</key>
+			<real>655075973.13919902</real>
+			<key>title</key>
+			<string>Build Closures (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>BED6C50B-9C7C-4A24-9922-4B4A5463D1A9</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
