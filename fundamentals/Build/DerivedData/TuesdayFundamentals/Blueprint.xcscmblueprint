@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9DE8AEFE8D2388D560C4C8CEFD51FF96CB4B87B2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9DE8AEFE8D2388D560C4C8CEFD51FF96CB4B87B2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D78F2B2A-91C3-48FA-A4A6-C80FCFFFACC7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9DE8AEFE8D2388D560C4C8CEFD51FF96CB4B87B2" : "swift\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TuesdayFundamentals",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "fundamentals\/TuesdayFundamentals.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kpartain\/swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9DE8AEFE8D2388D560C4C8CEFD51FF96CB4B87B2"
+    }
+  ]
+}
